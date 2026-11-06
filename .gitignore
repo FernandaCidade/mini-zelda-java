@@ -1,0 +1,43 @@
+# ===== Java: arquivos compilados =====
+bin/
+out/
+target/
+build/
+*.class
+
+# ===== Eclipse =====
+.settings/
+.classpath
+.project
+.metadata/
+.recommenders/
+*.launch
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+
+# ===== VS Code =====
+.vscode/
+
+# ===== NetBeans =====
+nbproject/private/
+nbbuild/
+nbdist/
+
+# ===== Pacotes e logs =====
+*.jar
+*.war
+*.log
+hs_err_pid*
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Arquivos temporários =====
+*.tmp
+*.bak
+*.swp
+*~
